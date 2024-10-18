@@ -1,0 +1,14 @@
+F:\C#\3\JoeAndBob\JoeAndBob\obj\Debug\netcoreapp3.1\JoeAndBob.csproj.AssemblyReference.cache
+F:\C#\3\JoeAndBob\JoeAndBob\obj\Debug\netcoreapp3.1\JoeAndBob.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\3\JoeAndBob\JoeAndBob\obj\Debug\netcoreapp3.1\JoeAndBob.AssemblyInfoInputs.cache
+F:\C#\3\JoeAndBob\JoeAndBob\obj\Debug\netcoreapp3.1\JoeAndBob.AssemblyInfo.cs
+F:\C#\3\JoeAndBob\JoeAndBob\obj\Debug\netcoreapp3.1\JoeAndBob.csproj.CoreCompileInputs.cache
+F:\C#\3\JoeAndBob\JoeAndBob\bin\Debug\netcoreapp3.1\JoeAndBob.exe
+F:\C#\3\JoeAndBob\JoeAndBob\bin\Debug\netcoreapp3.1\JoeAndBob.deps.json
+F:\C#\3\JoeAndBob\JoeAndBob\bin\Debug\netcoreapp3.1\JoeAndBob.runtimeconfig.json
+F:\C#\3\JoeAndBob\JoeAndBob\bin\Debug\netcoreapp3.1\JoeAndBob.runtimeconfig.dev.json
+F:\C#\3\JoeAndBob\JoeAndBob\bin\Debug\netcoreapp3.1\JoeAndBob.dll
+F:\C#\3\JoeAndBob\JoeAndBob\bin\Debug\netcoreapp3.1\JoeAndBob.pdb
+F:\C#\3\JoeAndBob\JoeAndBob\obj\Debug\netcoreapp3.1\JoeAndBob.dll
+F:\C#\3\JoeAndBob\JoeAndBob\obj\Debug\netcoreapp3.1\JoeAndBob.pdb
+F:\C#\3\JoeAndBob\JoeAndBob\obj\Debug\netcoreapp3.1\JoeAndBob.genruntimeconfig.cache
