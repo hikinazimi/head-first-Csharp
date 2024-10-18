@@ -1,2 +1,2 @@
 # head-first-Csharp
-书籍学习的笔记以及代码
+该 GitHub 项目包含《Head First C#：使用 C# 和 .NET Core 实用编程学习指南》（O'Reilly Media 2020）第 4 版中项目的源代码
