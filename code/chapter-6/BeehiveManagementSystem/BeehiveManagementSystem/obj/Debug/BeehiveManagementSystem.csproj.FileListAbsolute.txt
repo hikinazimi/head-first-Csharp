@@ -1,0 +1,15 @@
+F:\C#\6\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.csproj.AssemblyReference.cache
+F:\C#\6\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\MainWindow.g.cs
+F:\C#\6\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\App.g.cs
+F:\C#\6\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem_MarkupCompile.cache
+F:\C#\6\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem_MarkupCompile.lref
+F:\C#\6\BeehiveManagementSystem\BeehiveManagementSystem\bin\Debug\BeehiveManagementSystem.exe.config
+F:\C#\6\BeehiveManagementSystem\BeehiveManagementSystem\bin\Debug\BeehiveManagementSystem.exe
+F:\C#\6\BeehiveManagementSystem\BeehiveManagementSystem\bin\Debug\BeehiveManagementSystem.pdb
+F:\C#\6\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\MainWindow.baml
+F:\C#\6\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.g.resources
+F:\C#\6\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.Properties.Resources.resources
+F:\C#\6\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.csproj.GenerateResource.cache
+F:\C#\6\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.csproj.CoreCompileInputs.cache
+F:\C#\6\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.exe
+F:\C#\6\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.pdb
