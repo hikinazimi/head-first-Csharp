@@ -1,0 +1,13 @@
+F:\C#\8\Duck\Duck\bin\Debug\netcoreapp3.1\Duck.exe
+F:\C#\8\Duck\Duck\bin\Debug\netcoreapp3.1\Duck.deps.json
+F:\C#\8\Duck\Duck\bin\Debug\netcoreapp3.1\Duck.runtimeconfig.json
+F:\C#\8\Duck\Duck\bin\Debug\netcoreapp3.1\Duck.runtimeconfig.dev.json
+F:\C#\8\Duck\Duck\bin\Debug\netcoreapp3.1\Duck.dll
+F:\C#\8\Duck\Duck\bin\Debug\netcoreapp3.1\Duck.pdb
+F:\C#\8\Duck\Duck\obj\Debug\netcoreapp3.1\Duck.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\8\Duck\Duck\obj\Debug\netcoreapp3.1\Duck.AssemblyInfoInputs.cache
+F:\C#\8\Duck\Duck\obj\Debug\netcoreapp3.1\Duck.AssemblyInfo.cs
+F:\C#\8\Duck\Duck\obj\Debug\netcoreapp3.1\Duck.csproj.CoreCompileInputs.cache
+F:\C#\8\Duck\Duck\obj\Debug\netcoreapp3.1\Duck.dll
+F:\C#\8\Duck\Duck\obj\Debug\netcoreapp3.1\Duck.pdb
+F:\C#\8\Duck\Duck\obj\Debug\netcoreapp3.1\Duck.genruntimeconfig.cache

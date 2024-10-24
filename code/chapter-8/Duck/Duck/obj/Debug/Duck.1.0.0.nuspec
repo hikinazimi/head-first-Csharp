@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Duck</id>
+    <version>1.0.0</version>
+    <authors>Duck</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\C#\8\Duck\Duck\bin\Debug\netcoreapp3.1\Duck.runtimeconfig.json" target="lib\netcoreapp3.1\Duck.runtimeconfig.json" />
+    <file src="F:\C#\8\Duck\Duck\bin\Debug\netcoreapp3.1\Duck.dll" target="lib\netcoreapp3.1\Duck.dll" />
+  </files>
+</package>

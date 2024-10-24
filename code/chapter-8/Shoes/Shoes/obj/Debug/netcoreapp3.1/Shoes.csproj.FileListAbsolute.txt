@@ -1,0 +1,14 @@
+F:\C#\8\Shoes\Shoes\bin\Debug\netcoreapp3.1\Shoes.exe
+F:\C#\8\Shoes\Shoes\bin\Debug\netcoreapp3.1\Shoes.deps.json
+F:\C#\8\Shoes\Shoes\bin\Debug\netcoreapp3.1\Shoes.runtimeconfig.json
+F:\C#\8\Shoes\Shoes\bin\Debug\netcoreapp3.1\Shoes.runtimeconfig.dev.json
+F:\C#\8\Shoes\Shoes\bin\Debug\netcoreapp3.1\Shoes.dll
+F:\C#\8\Shoes\Shoes\bin\Debug\netcoreapp3.1\Shoes.pdb
+F:\C#\8\Shoes\Shoes\obj\Debug\netcoreapp3.1\Shoes.csproj.AssemblyReference.cache
+F:\C#\8\Shoes\Shoes\obj\Debug\netcoreapp3.1\Shoes.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\8\Shoes\Shoes\obj\Debug\netcoreapp3.1\Shoes.AssemblyInfoInputs.cache
+F:\C#\8\Shoes\Shoes\obj\Debug\netcoreapp3.1\Shoes.AssemblyInfo.cs
+F:\C#\8\Shoes\Shoes\obj\Debug\netcoreapp3.1\Shoes.csproj.CoreCompileInputs.cache
+F:\C#\8\Shoes\Shoes\obj\Debug\netcoreapp3.1\Shoes.dll
+F:\C#\8\Shoes\Shoes\obj\Debug\netcoreapp3.1\Shoes.pdb
+F:\C#\8\Shoes\Shoes\obj\Debug\netcoreapp3.1\Shoes.genruntimeconfig.cache
